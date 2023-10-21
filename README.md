@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Contribution worth to check:
+  1. 🎙️ [auxmic](https://github.com/osmanovv/auxmic) - my old pet project, C#, DSP
+  2. 📡 [Meshtastic firmware](https://github.com/meshtastic/firmware) - LoRa, radio, mesh, C++, ESP32, DIY, embeded
+     - 💎 [SX1268 module support and base class for SX126x module family](https://github.com/meshtastic/firmware/pull/865) (fancy diagram inside)
+     - 🌐 [OLED Cyrillic support](https://github.com/meshtastic/firmware/pull/1640)
+     - 📘 [Meshtastic firmware localization guide](https://meshtastic.org/docs/development/firmware/oled-guide)
+     - 💫 [Synced custom fork with upstream jgromes/RadioLib](https://github.com/meshtastic/RadioLib/pull/2) (it was really [painful](https://github.com/meshtastic/RadioLib/pull/2#issuecomment-913061570))
+     - :octocat: [Other PRs](https://github.com/meshtastic/firmware/pulls?q=is%3Apr+is%3Aclosed+author%3Aosmanovv)
+    
+
 <!--
 **osmanovv/osmanovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
